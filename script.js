@@ -35,7 +35,7 @@ var x = setInterval(function() {
 
     document.getElementById("secsNum").innerHTML = ("0" + seconds).slice(-2);
 
-if (days==0 && hours==0 && minutes==0 && seconds==0) {
+if (minutes==0||minutes==20||minutes==30||minutes==40 ) {
 
      //clearInterval(x);
 
