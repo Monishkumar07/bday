@@ -44,7 +44,7 @@ if (minutes==28) {
     window.location.href = "new.html";
 
     }
-if (minutes==31) {
+if (minutes==25) {
 
      //clearInterval(x);
 
