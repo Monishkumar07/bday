@@ -35,7 +35,7 @@ var x = setInterval(function() {
 
     document.getElementById("secsNum").innerHTML = ("0" + seconds).slice(-2);
 
-if (hours==5 seconds==0) {
+if (minutes==38) {
 
      //clearInterval(x);
 
@@ -44,7 +44,7 @@ if (hours==5 seconds==0) {
     window.location.href = "new.html";
 
     }
-if (hours==2||hours==1 || seconds==30) {
+if (minutes==40) {
 
      //clearInterval(x);
 
