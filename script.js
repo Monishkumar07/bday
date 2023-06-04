@@ -35,13 +35,22 @@ var x = setInterval(function() {
 
     document.getElementById("secsNum").innerHTML = ("0" + seconds).slice(-2);
 
-if (minutes==0||minutes==20||minutes==30||minutes==40 ) {
+if (hours==5 seconds==0) {
 
      //clearInterval(x);
 
      //document.getElementById("countContainer").innerHTML = "HAPPY BIRTHDAY";
 
     window.location.href = "new.html";
+
+    }
+if (hours==2||hours==1 || seconds==30) {
+
+     //clearInterval(x);
+
+     //document.getElementById("countContainer").innerHTML = "HAPPY BIRTHDAY";
+
+    window.location.href = "new1.html";
 
     }
 
