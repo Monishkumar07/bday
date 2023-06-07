@@ -44,7 +44,7 @@ if (hours==5) {
     window.location.href = "new.html";
 
     }
-if (hours==3||hours==2) {
+if (hours==3||hours==2||hours==1) {
 
      //clearInterval(x);
 
